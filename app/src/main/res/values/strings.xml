@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="add_story">add Story</string>
+    <string name="logout">keluar</string>
+
+    <string name="signup">Register</string>
+    <string name="login">Sign In</string>
+    <string name="message_welcome_page">Anda dapat menemukan kisah-kisah menarik dari seluruh dunia dan berbagi kreasi Anda sendiri. Nikmati pengalaman membaca yang mendalam, temukan inspirasi, dan jadilah bagian dari komunitas pembuat cerita. Selamat mengeksplorasi dunia kisah dengan aplikasi Story saya!</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi Story!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan Data Kredensialmu Agar Bisa Bereksplorasi Lebih Jauh!</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Name</string>
+    <string name="story">Image story</string>
+    <string name="title_signup">Registration Form</string>
+    <string name="title">Title story</string>
+    <string name="desc">Description Story</string>
+    <string name="retry">memulai</string>
+    <string name="email_validation">Enter a valid email address!</string>
+    <string name="password_length">This field can\'t be less than 8 character</string>
+    <string name="upload_picture">Upload Image</string>
+    <string name="open_file">Open File Image</string>
+    <string name="take_picture">Take Pitcure</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="input_image">Input image here</string>
+    <string name="title_register_page">Silahkan melakukan registrasi disini!</string>
+    <string name="image_register">Email signup</string>
+    <string name="title_login">Halaman Login</string>
+    <string name="required_field">Wajib Diisi</string>
+    <string name="title_detail">Halaman Detail</string>
+    <string name="Language">Silahkan memilih Bahasa Anda</string>
+    <string name="main_login">Silahkan Login Disini!</string>
+    <string name="sign_out">Ke Halaman Utama</string>
+    <string name="confirm_sign_out">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="logout_canceled">Logout dibatalkan</string>
+    <string name="share">Detail Share Story</string>
+    <string name="name_splash">STORY APP</string>
+    <string name="story_detail">Detail Story</string>
+
+
+</resources>
